@@ -1,6 +1,7 @@
 # advanced-llms
 
 Welcome to the comprehensive course on advancing your skills in building sophisticated Large Language Model (LLM) applications!
+Details about the course can be found here: https://maven.com/boring-bot/advanced-llm
 
 
 
